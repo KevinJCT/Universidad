@@ -16,10 +16,10 @@ $filename = __DIR__.'/report2.jrxml';
 // ];
  $config = [
     'driver'=>'mysql',
-    'host'=>'localhost',
-    'user'=>'root',
-    'pass'=>'',
-    'name'=>'cuartosw'
+    'host'=>'br8ci1y2h5jbgtbdlkeh-mysql.services.clever-cloud.com',
+    'user'=>'uafziyg7bdppjgp7',
+    'pass'=>'wmg6pwxvGw8t9X1V6Nf6',
+    'name'=>'br8ci1y2h5jbgtbdlkeh'
  ];
 // $config = [
 //     'driver'=>'pdo',
