@@ -15,10 +15,10 @@
 				</div>
 				<p style="margin:10px; text-align:center;">Llenar todos los campos</p>
 				<div style="margin-bottom:20px">
-					<input type="text" name="usuario" class="easyui-textbox" id="usuario" style="width:100%" data-options="label:'Usuario:',required:true">
+					<input type="text" class="easyui-textbox" id="usuario" style="width:100%" data-options="label:'Usuario:',required:true">
 				</div>
 				<div style="margin-bottom:20px">
-					<input type="password" name="password" class="easyui-textbox" id="password" pattern="[A-Za-Z0-9_-]{1}" style="width:100%" data-options="label:'Contraseña:',required:true">
+					<input type="password" class="easyui-textbox" id="password" pattern="[A-Za-Z0-9_-]{1}" style="width:100%" data-options="label:'Contraseña:',required:true">
 				</div>
 		</form>
 		<div style="text-align:center;padding:5px 0;">
