@@ -60,7 +60,7 @@
                     <a href="javascript:void(0)" class="easyui-linkbutton" iconCls="icon-edit" plain="true" onclick="editUser()">Editar estudiante</a>
                     <a href="javascript:void(0)" class="easyui-linkbutton" iconCls="icon-remove" plain="true" onclick="destroyUser()">Eliminar estudiante</a>
                     <a href="models/reporte.php" class="easyui-linkbutton" iconCls="icon-remove" plain="true" target="_blank">Reporte FPDF</a>
-                    <a href="phpjasperxml/examples/databasesample.php" class="easyui-linkbutton" iconCls="icon-remove" plain="true" onclick="reporte()">Reporte Ireport</a>
+                    <a href="phpjasperxml/examples/databasesample.php" class="easyui-linkbutton" iconCls="icon-remove" plain="true" target="_blank" onclick="reporte()">Reporte Ireport</a>
                 </div>';
             }
         }
